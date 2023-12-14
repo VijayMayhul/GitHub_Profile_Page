@@ -1,0 +1,50 @@
+.navbar{
+    background-color: darkslategrey;
+}
+.titleDiv{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+.nav-logo-Div{
+    left: 25px;
+}
+
+.main{
+    background-color: lightgray;
+}
+
+.leftLgDiv{
+    width: 250px;
+    height: 447px;
+    border-radius: 20px;
+}
+.rightLgColumn
+{
+    height: auto;
+}
+.rightSearchDiv{
+    height: 40px;
+    border-radius: 8px;
+}
+.inputBox{
+    width: 95%;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.inputBox:visited{
+    border: none;
+}
+.rightMdDiv{
+    height: 130px;
+    border-radius: 15px;
+}
+.rightLgDiv{
+    height: 150px;
+    border-radius: 15px;
+}
