@@ -18,7 +18,7 @@ It's sample GitHub profile page which was designed by me. It's my Guvi-Zen class
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Demo_Img.png)
 
 
 ## Feedback
