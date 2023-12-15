@@ -12,8 +12,7 @@ It's sample GitHub profile page which was designed by me. It's my Guvi-Zen class
 
 ## Features
 
-- Fullscreen mode
-- Cross platform
+- Responsive Design
 
 
 ## Screenshots
