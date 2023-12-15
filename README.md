@@ -9,10 +9,19 @@ It's sample GitHub profile page which was designed by me. It's my Guvi-Zen class
 - CSS
 - Bootstrap
 
+## Lessons Learned
+
+I learned to write media Queries in css and some specified classes in Bootstrap during this project
+
 
 ## Features
 
 - Responsive Design
+
+
+## Website
+
+[GitHub Profile Page](https://git-hub-profile-page.vercel.app/)
 
 
 ## Screenshots
