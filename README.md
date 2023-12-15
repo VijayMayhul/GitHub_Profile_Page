@@ -21,7 +21,7 @@ I learned to write media Queries in css and some specified classes in Bootstrap 
 
 ## Website
 
-[GitHub Profile Page](https://git-hub-profile-page.vercel.app/)
+[My GitHub Profile Page](https://git-hub-profile-page.vercel.app/)
 
 
 ## Screenshots
